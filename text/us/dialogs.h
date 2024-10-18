@@ -276,7 +276,7 @@ quietly in the hallway!"))
 
 DEFINE_DIALOG(DIALOG_020, 1, 6, 95, 150, _("\
 Dear Mario:\n\
-the half-life 2\n\
+the half-life 2 beta\n\
 leaked in 2003\n\
 the game was originally\n\
 much Darker.\n\
